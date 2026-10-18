@@ -1,0 +1,13 @@
+                 precision    recall  f1-score   support
+
+tomato__JAS_MIT       0.98      0.96      0.97        46
+      tomato__K       0.91      1.00      0.95        61
+     tomato__LM       1.00      0.88      0.94        51
+    tomato__MIT       0.83      0.62      0.71        39
+      tomato__N       0.90      0.71      0.80        52
+    tomato__N_K       0.95      0.86      0.90        44
+tomato__healthy       0.53      0.89      0.67        38
+
+       accuracy                           0.85       331
+      macro avg       0.87      0.85      0.85       331
+   weighted avg       0.88      0.85      0.86       331
